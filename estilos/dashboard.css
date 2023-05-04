@@ -1,0 +1,192 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Koulen&family=Lato&family=Nunito&family=Playfair+Display:ital@1&family=Prata&family=Raleway:ital,wght@1,100&family=Roboto&family=Roboto+Condensed&family=Teko&display=swap');
+
+.table{
+  padding: 10px;
+  
+}
+
+body{
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.head {
+  font-family: Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.tr, .head{
+  border: 1px solid #ddd;
+  padding: 8px;
+ 
+}
+.tr{
+  text-align: center;
+}
+
+.head {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: center;
+  background-color: #04AA6D;
+  color: white;
+}
+
+h2{
+  padding-left: 15px;
+  padding-top: 5px;
+  padding-bottom: 10px;
+}
+
+
+
+
+.btnAP{
+  font-family: Arial, Helvetica, sans-serif;
+  margin-left: 10px;
+  background-color: #081f2d; 
+  border-radius: 29px; 
+  border: 1px solid #081F2D; 
+  color: white; 
+ padding: 10px 45px; 
+  cursor: pointer; 
+  transition: 1s; 
+  border-width: 2px; 
+  }
+  
+.btnAP:hover{ 
+  background-color: white; 
+  color: #081F2D; 
+  border-color: #081F2D;
+  border-width: 2px; 
+  transition: 1s; 
+ }
+
+
+
+ .btnAH{
+  font-family: Arial, Helvetica, sans-serif;
+  margin-left: 10px;
+  background-color: #081f2d; 
+  border-radius: 29px; 
+  border: 1px solid #081F2D; 
+  color: white; 
+ padding: 10px 45px; 
+  cursor: pointer; 
+  transition: 1s; 
+  border-width: 2px; 
+  }
+  
+.btnAH:hover{ 
+  background-color: white; 
+  color: #081F2D; 
+  border-color: #081F2D;
+  border-width: 2px; 
+  transition: 1s; 
+ }
+
+
+ .btnEdi{ 
+  background-color: #1877f2; 
+  border: none; 
+  border-radius: 6px; 
+  color: #fff;
+  flex-grow: 1;
+  font-family: SFProText-Regular, Helvetica, Arial, sans-serif;
+  font-size: 15px; 
+  height: 36px; 
+  line-height: 20px; 
+  margin-left: 8px;
+  margin-right: 6px; 
+  min-width: 90px; 
+  padding: 0 16px 0 16px; 
+  transition: 0.3s; 
+  cursor: pointer; 
+  align-content: center;
+  } 
+  
+  .btnEli:hover{
+  background-color: #e4e6eb; 
+  color: #050505; 
+  font-size: 15px; 
+  transition: 0.3s; 
+  } 
+  .btnEli{ 
+    background-color: #f21818; 
+    border: none; 
+    border-radius: 6px; 
+    color: #fff;
+    flex-grow: 1;
+    font-family: SFProText-Regular, Helvetica, Arial, sans-serif;
+    font-size: 15px; 
+    height: 36px; 
+    line-height: 20px; 
+    margin-left: 8px;
+    margin-right: 6px; 
+    min-width: 90px; 
+    padding: 0 16px 0 16px; 
+    transition: 0.3s; 
+    cursor: pointer; 
+    align-content: center;
+    } 
+    
+    .btnEdi:hover{
+    background-color: #e4e6eb; 
+    color: #050505; 
+    font-size: 15px; 
+    transition: 0.3s; 
+    } 
+
+
+.btnVO{ 
+  font-family: Arial, Helvetica, sans-serif;
+  margin-left: 10px;
+  margin-bottom: 5px;
+  padding: 10px 45px; 
+  background-color: #081f2d; 
+  border-radius: 29px; 
+  border: 1px solid #081F2D; 
+  color: white; 
+ padding: 10px 45px; 
+  cursor: pointer; 
+  transition: 1s; 
+  border-width: 2px; 
+  }
+      
+.btnVO:hover{ 
+  background-color: white; 
+  color: #081F2D; 
+  border-color: #081F2D;
+  border-width: 2px; 
+  transition: 1s; 
+  }
+
+
+  .btnEn{
+    margin-top: 15px;
+    font-family: Roboto, sans-serif;
+    font-weight: 0;
+    font-size: 14px;
+    color: #fff;
+    background-color: #ff8000;
+    padding: 10px 30px;
+    border: none;
+    box-shadow: rgba(0, 0, 0, 0.15) 0px 5px 15px 0px;
+    border-radius: 50px;
+    transition : 1000ms;
+    transform: translateY(0);
+    }
+    
+    .btnEn:hover{
+    transition : 1000ms;
+    padding: 10px 50px;
+    transform : translateY(-0px);
+    background-color: #ff8000e2;
+    color: #000000;
+    border: none;
+    }
+   
+     
+    
+  
